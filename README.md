@@ -64,7 +64,7 @@ VALUES (1, 'Juan', 'juan@example.com'),
 
 Hacemos la prueba de conexion y nos pedira la contraseña del usuario:
 
-<img width="50%" alt="Captura de pantalla 2024-05-27 a la(s) 2 42 27 p  m" src="https://github.com/JulianaHernandezC/LAB9/assets/131790646/62f877f5-5488-4f73-927a-65135d0087b6">
+<img width="70%" alt="Captura de pantalla 2024-05-27 a la(s) 2 42 27 p  m" src="https://github.com/JulianaHernandezC/LAB9/assets/131790646/62f877f5-5488-4f73-927a-65135d0087b6">
 
 <img width="372" alt="Captura de pantalla 2024-05-27 a la(s) 2 42 51 p  m" src="https://github.com/JulianaHernandezC/LAB9/assets/131790646/9061828d-46fe-4e0d-bee1-1c2fb23f25d3">
 
