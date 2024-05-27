@@ -50,7 +50,7 @@ VALUES (1, 'Juan', 'juan@example.com'),
 12) Con el comando __sudo nano /etc/mysql/mysql.conf.d/mysqld.cnf__  entramos en el archivo de configuracion de mysql en la parte de redes para habilitar otros puertos y que no solo se permita el local host. 
 10) Editamos el archivo y comentamos con '#' la linea "bind-address = 127.0.0.1" y agregamos "bind-address = 0.0.0.0". Para que de esta forma se acepten conexiones remotas y este servidor escuche de cualquier otro servidor. Es decir, que cualquier persona se pueda conectar a él a traves de cualquier otra red.
 
-<img width="1415" alt="Captura de pantalla 2024-05-27 a la(s) 1 50 40 p  m" src="https://github.com/JulianaHernandezC/LAB9/assets/131790646/b1dd4aee-0624-4872-a2fd-1edd2dcc1eca">
+<img width="50%" alt="Captura de pantalla 2024-05-27 a la(s) 1 50 40 p  m" src="https://github.com/JulianaHernandezC/LAB9/assets/131790646/b1dd4aee-0624-4872-a2fd-1edd2dcc1eca">
 13) En la configuracion de red de la maquina virtual creamos una entrada al grupo de seguridad para el puerto 3306. 
 <img width="1440" alt="Captura de pantalla 2024-05-27 a la(s) 2 30 16 p  m" src="https://github.com/JulianaHernandezC/LAB9/assets/131790646/8f249b9c-455e-449c-8743-c2f855262b77">
 
@@ -71,5 +71,7 @@ Hacemos la prueba de conexion y nos pedira la contraseña del usuario:
     <img width="1136" alt="Captura de pantalla 2024-05-27 a la(s) 3 46 10 p  m" src="https://github.com/JulianaHernandezC/LAB9/assets/131790646/bffbab28-8e52-46f1-86f4-bc20b7a33bbd">
 
 16) Cree otra tabla llamada "estudiantes".
-    
+<img width="396" alt="Captura de pantalla 2024-05-27 a la(s) 3 57 52 p  m" src="https://github.com/JulianaHernandezC/LAB9/assets/131790646/a64166a5-7788-4cf6-b5f9-8736b28c8022">
+<img width="1136" alt="Captura de pantalla 2024-05-27 a la(s) 3 59 21 p  m" src="https://github.com/JulianaHernandezC/LAB9/assets/131790646/16c01b49-1ca0-49f0-9cf6-bdcd5ccf412e">
+
 
