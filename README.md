@@ -20,6 +20,8 @@
 5)Creamos un usuario con el comando __CREATE USER 'username'@'%' IDENTIFIED BY 'password';__ el nombre de usuario que elegí fue __lab9__ .
 
 6)Le doy privilegio a ese usuario para que administre la base de datos. Comando: __GRANT ALL PRIVILEGES ON 'nombreBaseDatos'.* TO 'username'@'%';__
+<img width="1415" alt="Captura de pantalla 2024-05-27 a la(s) 2 24 49 p  m" src="https://github.com/JulianaHernandezC/LAB9/assets/131790646/c7e00c5f-2ba0-4214-9643-55616b9e0a68">
+
 7) En la configuracion de red de la maquina virtual creamos una entrada al grupo de seguridad para el puerto 3306. 
 <img width="1440" alt="Captura de pantalla 2024-05-27 a la(s) 2 30 16 p  m" src="https://github.com/JulianaHernandezC/LAB9/assets/131790646/8f249b9c-455e-449c-8743-c2f855262b77">
 
@@ -36,7 +38,6 @@ Hacemos la prueba de conexion y nos pedira la contraseña del usuario:
   <img width="372" alt="Captura de pantalla 2024-05-27 a la(s) 2 42 51 p  m" src="https://github.com/JulianaHernandezC/LAB9/assets/131790646/9061828d-46fe-4e0d-bee1-1c2fb23f25d3">
 
 
-<img width="1415" alt="Captura de pantalla 2024-05-27 a la(s) 2 24 49 p  m" src="https://github.com/JulianaHernandezC/LAB9/assets/131790646/c7e00c5f-2ba0-4214-9643-55616b9e0a68">
 
 
 5) Para seleccionar la base de datos recien creada se utiliza el comando __USE nombredeDatabase;__ en mi caso __USE ejemplo;__
