@@ -70,10 +70,10 @@ Hacemos la prueba de conexion y nos pedira la contraseña del usuario:
 
 
 16) Por ultimo, podemos observar la tabla creada en Mysql desde el workbench.
-<img width="50%" alt="Captura de pantalla 2024-05-27 a la(s) 3 46 10 p  m" src="https://github.com/JulianaHernandezC/LAB9/assets/131790646/bffbab28-8e52-46f1-86f4-bc20b7a33bbd">
+<img width="70%" alt="Captura de pantalla 2024-05-27 a la(s) 3 46 10 p  m" src="https://github.com/JulianaHernandezC/LAB9/assets/131790646/bffbab28-8e52-46f1-86f4-bc20b7a33bbd">
 
 17) Cree otra tabla llamada "estudiantes".
 <img width="396" alt="Captura de pantalla 2024-05-27 a la(s) 3 57 52 p  m" src="https://github.com/JulianaHernandezC/LAB9/assets/131790646/a64166a5-7788-4cf6-b5f9-8736b28c8022">
-<img width="50%" alt="Captura de pantalla 2024-05-27 a la(s) 3 59 21 p  m" src="https://github.com/JulianaHernandezC/LAB9/assets/131790646/16c01b49-1ca0-49f0-9cf6-bdcd5ccf412e">
+<img width="70%" alt="Captura de pantalla 2024-05-27 a la(s) 3 59 21 p  m" src="https://github.com/JulianaHernandezC/LAB9/assets/131790646/16c01b49-1ca0-49f0-9cf6-bdcd5ccf412e">
 
 
