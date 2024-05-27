@@ -45,14 +45,14 @@ VALUES (1, 'Juan', 'juan@example.com'),
 <img width="779" alt="Captura de pantalla 2024-05-21 a la(s) 12 44 50 p  m" src="https://github.com/JulianaHernandezC/LAB9/assets/131790646/2ffc1e0a-0e1d-49e2-ac13-19c9e02b63a3">
 
 11) Para consultar la tabla de ejemplo iniciamos secion en el cliente de MySQL, seleccionamos la base de datos y verificamos los datos de la tabla. 
-<img width="970" alt="Captura de pantalla 2024-05-21 a la(s) 12 53 30 p  m" src="https://github.com/JulianaHernandezC/LAB9/assets/131790646/e820f130-c3c3-4e3b-9ecb-931c723a8977">
+<img width="50%" alt="Captura de pantalla 2024-05-21 a la(s) 12 53 30 p  m" src="https://github.com/JulianaHernandezC/LAB9/assets/131790646/e820f130-c3c3-4e3b-9ecb-931c723a8977">
 
 12) Con el comando __sudo nano /etc/mysql/mysql.conf.d/mysqld.cnf__  entramos en el archivo de configuracion de mysql en la parte de redes para habilitar otros puertos y que no solo se permita el local host. 
 13) Editamos el archivo y comentamos con '#' la linea "bind-address = 127.0.0.1" y agregamos "bind-address = 0.0.0.0". Para que de esta forma se acepten conexiones remotas y este servidor escuche de cualquier otro servidor. Es decir, que cualquier persona se pueda conectar a él a traves de cualquier otra red.
 
-<img width="50%" alt="Captura de pantalla 2024-05-27 a la(s) 1 50 40 p  m" src="https://github.com/JulianaHernandezC/LAB9/assets/131790646/b1dd4aee-0624-4872-a2fd-1edd2dcc1eca">
+<img width="80%" alt="Captura de pantalla 2024-05-27 a la(s) 1 50 40 p  m" src="https://github.com/JulianaHernandezC/LAB9/assets/131790646/b1dd4aee-0624-4872-a2fd-1edd2dcc1eca">
 14) En la configuracion de red de la maquina virtual creamos una entrada al grupo de seguridad para el puerto 3306. 
-<img width="1440" alt="Captura de pantalla 2024-05-27 a la(s) 2 30 16 p  m" src="https://github.com/JulianaHernandezC/LAB9/assets/131790646/8f249b9c-455e-449c-8743-c2f855262b77">
+<img width="50%" alt="Captura de pantalla 2024-05-27 a la(s) 2 30 16 p  m" src="https://github.com/JulianaHernandezC/LAB9/assets/131790646/8f249b9c-455e-449c-8743-c2f855262b77">
 
 <img width="588" alt="Captura de pantalla 2024-05-27 a la(s) 2 33 38 p  m" src="https://github.com/JulianaHernandezC/LAB9/assets/131790646/c098e2a6-59ae-4bdb-95e1-5d17c4436eb8">
 
