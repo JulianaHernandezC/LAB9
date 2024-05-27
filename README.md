@@ -58,20 +58,20 @@ VALUES (1, 'Juan', 'juan@example.com'),
 
 14) Luego en el MySQL Workbench hacemos la primer prueba de conexion. Para eso completamos algunos datos como la IP publica de la VM, el nombre de usuario y el nombre de la base de datos. Ademas, le creamos un nombre a la conexion, en mi caso le puse "Laboratorio09".
 
-  <img width="912" alt="Captura de pantalla 2024-05-27 a la(s) 2 37 24 p  m" src="https://github.com/JulianaHernandezC/LAB9/assets/131790646/3ca95fcf-57db-4ff1-b148-a3d3ba3a1076">
+  <img width="50%" alt="Captura de pantalla 2024-05-27 a la(s) 2 37 24 p  m" src="https://github.com/JulianaHernandezC/LAB9/assets/131790646/3ca95fcf-57db-4ff1-b148-a3d3ba3a1076">
 
 Hacemos la prueba de conexion y nos pedira la contraseña del usuario:
 
-  <img width="808" alt="Captura de pantalla 2024-05-27 a la(s) 2 42 27 p  m" src="https://github.com/JulianaHernandezC/LAB9/assets/131790646/62f877f5-5488-4f73-927a-65135d0087b6">
+  <img width="50%" alt="Captura de pantalla 2024-05-27 a la(s) 2 42 27 p  m" src="https://github.com/JulianaHernandezC/LAB9/assets/131790646/62f877f5-5488-4f73-927a-65135d0087b6">
 
   <img width="372" alt="Captura de pantalla 2024-05-27 a la(s) 2 42 51 p  m" src="https://github.com/JulianaHernandezC/LAB9/assets/131790646/9061828d-46fe-4e0d-bee1-1c2fb23f25d3">
 
 
 15) Por ultimo, podemos observar la tabla creada en Mysql desde el workbench.
-    <img width="1136" alt="Captura de pantalla 2024-05-27 a la(s) 3 46 10 p  m" src="https://github.com/JulianaHernandezC/LAB9/assets/131790646/bffbab28-8e52-46f1-86f4-bc20b7a33bbd">
+    <img width="50%" alt="Captura de pantalla 2024-05-27 a la(s) 3 46 10 p  m" src="https://github.com/JulianaHernandezC/LAB9/assets/131790646/bffbab28-8e52-46f1-86f4-bc20b7a33bbd">
 
 16) Cree otra tabla llamada "estudiantes".
 <img width="396" alt="Captura de pantalla 2024-05-27 a la(s) 3 57 52 p  m" src="https://github.com/JulianaHernandezC/LAB9/assets/131790646/a64166a5-7788-4cf6-b5f9-8736b28c8022">
-<img width="1136" alt="Captura de pantalla 2024-05-27 a la(s) 3 59 21 p  m" src="https://github.com/JulianaHernandezC/LAB9/assets/131790646/16c01b49-1ca0-49f0-9cf6-bdcd5ccf412e">
+<img width="50%" alt="Captura de pantalla 2024-05-27 a la(s) 3 59 21 p  m" src="https://github.com/JulianaHernandezC/LAB9/assets/131790646/16c01b49-1ca0-49f0-9cf6-bdcd5ccf412e">
 
 
