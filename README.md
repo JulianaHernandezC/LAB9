@@ -56,7 +56,7 @@ VALUES (1, 'Juan', 'juan@example.com'),
 14) En la configuracion de red de la maquina virtual creamos una entrada al grupo de seguridad para el puerto 3306. 
 <img width="60%" alt="Captura de pantalla 2024-05-27 a la(s) 2 30 16 p  m" src="https://github.com/JulianaHernandezC/LAB9/assets/131790646/8f249b9c-455e-449c-8743-c2f855262b77">
 
-<img width="80" alt="Captura de pantalla 2024-05-27 a la(s) 2 33 38 p  m" src="https://github.com/JulianaHernandezC/LAB9/assets/131790646/c098e2a6-59ae-4bdb-95e1-5d17c4436eb8">
+<img width="70%" alt="Captura de pantalla 2024-05-27 a la(s) 2 33 38 p  m" src="https://github.com/JulianaHernandezC/LAB9/assets/131790646/c098e2a6-59ae-4bdb-95e1-5d17c4436eb8">
 
 15) Luego en el MySQL Workbench hacemos la primer prueba de conexion. Para eso completamos algunos datos como la IP publica de la VM, el nombre de usuario y el nombre de la base de datos. Ademas, le creamos un nombre a la conexion, en mi caso le puse "Laboratorio09".
 
